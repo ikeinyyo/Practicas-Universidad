@@ -1,0 +1,305 @@
+/* 
+    Document   : estilo
+    Created on : 26-feb-2012, 18:36:02
+    Author     : Sergio Gallardo Sales
+    Description:
+        Hoja de estilo para Picture&Image
+*/
+
+a {
+    text-decoration: none;
+}
+#Title {
+    
+    /*Alineación del texto*/
+    text-align: center;
+    
+    /*Márgen*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+ 
+    
+    /*Tamaño*/
+    width: 1000px;
+    
+}
+
+body {
+    
+}
+
+#pagina {
+    
+    /*Márgen*/
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    
+    /*Tamaño*/
+    width: 1200px;
+    
+}
+
+#estilos {
+    text-align: right;
+}
+
+.estilosIcon {
+    width: 12px;
+    height: 12px;
+}
+
+.linkTitle:hover {
+    
+}
+
+.linkTitle {
+    
+}
+
+.image {
+    
+    width: 200px;
+    height: 150px;
+}
+
+.marcoImagen {
+
+    /*Márgenes*/
+    padding-bottom: 1em;
+    padding-top: 1em;
+    width: 250px;
+    
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    
+    float: left;
+}
+
+#formBusqueda {
+
+    /*Márgenes*/
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+    margin-right: auto;
+    margin-bottom: 1em;
+    
+    position: relative;
+    top: 10px;
+    width: 200px;
+    float: left;
+    
+    /*Tamaño*/
+    width: 250px;
+}
+
+#formlogin {
+  
+    /*Márgenes*/
+    margin-left: auto;
+    margin-right: auto;
+    
+    /*Tamaño*/
+   width: 1200px;
+}
+
+#infoBusqueda {
+    /*Márgenes*/
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position: relative;
+    top: 10px;
+    width: 650px;
+    float: right;
+}
+
+#cuerpo {
+ 
+    /*Márgenes*/
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    /*Tamaño*/
+    width: 1000px;
+}
+
+#formRegistro {
+    position: relative;
+    top: 10px;
+    width: 250px;
+    float: left;
+}
+
+#infoRegistro {
+    /*Márgenes*/
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position: relative;
+    top: 10px;
+    width: 700px;
+    float: right;
+}
+
+.fixed {
+    
+    clear: both;
+}
+
+#Pie {
+    
+    /*Alineación del texto*/
+    text-align: left;
+    /*Márgen*/
+    padding-right: auto;
+    padding-left: auto;
+    padding-bottom: 0.8em;
+    padding-top: 0.8em;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /*Tamaño*/
+    width: 1000px;
+    
+}
+
+ul {
+    width: 900px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+li {
+    
+    /*display: inline-block;*/
+}
+
+#infoImage {
+    /*Márgenes*/
+    padding-bottom: 1em;
+    padding-top: 1em;
+    width: 700px;
+    
+    margin-top: 1em;
+    margin-bottom: 1em;
+    
+    float: right;
+}
+
+#ordenar {
+    
+    text-align: right;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+}
+
+#menu {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 250px;
+    float: left;
+    height: 100%;
+}
+
+#infoRegistrado {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+    width: 700px;
+    float: right;
+    height: 100%;
+}
+
+.boton_menu {
+
+    /*Márgenes*/
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    width: 150px;
+    
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    margin-left: 0em;
+    margin-right: 1em;
+
+    text-align: center;
+    
+    float: left;
+}
+
+#menu li {
+    
+    margin: 1em;
+    width: 150px;
+    height: 30px;
+}
+
+.salir {
+    text-align: right;
+    position: relative;
+    top: 10px;
+    width: 250px;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 1200px;
+
+}
+
+.detalle {
+    font-size: 12px;
+}
+
+.marcoImagenSeleccionada {
+
+    /*Márgenes*/
+    padding-bottom: 1em;
+    padding-top: 1em;
+    padding-left: 1em;
+    width: 90%;
+    
+    margin-top: 1em;
+    
+    margin-left: 1em;
+    margin-right: 1em;
+
+    font-size: 30px;
+    
+    float: left;
+}
+
+.imageSeleccionada {
+    
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+.formDatos {
+    position: relative;
+    top: 10px;
+    width: 250px;
+    float: left;
+}

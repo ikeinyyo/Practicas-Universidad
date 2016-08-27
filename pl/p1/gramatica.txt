@@ -1,0 +1,76 @@
+S → program id pyc VSp Bloque
+
+////////////////////
+VSp → VSp UnVsp
+VSp → UnVsp
+///////////////////
+VSp -> UnVsp VSp2 
+VSp2 -> UnVsp VSp2
+VSp2 -> ε
+//////////////////
+
+UnVsp -> function id dosp Tipo pyc VSp Bloque pyc
+UnVsp -> var LV
+
+//////////////////
+LV -> LV V
+LV -> V
+//////////////////
+LV -> V LV2
+LV2 -> V LV2
+LV2 -> ε
+//////////////////
+
+V -> id LI dosp Tipo pyc
+LI -> coma id LI
+LI -> ε
+Tipo -> integer
+Tipo -> real
+Bloque -> begin SInstr end
+SInstr -> SInstr pyc Instr
+SInstr -> Instr
+Instr -> Bloque
+Instr -> id asig E
+
+////////////////////////////////////////////////////
+Instr -> if E then Instr endif
+Instr -> if E then Instr else Instr endif
+////////////////////////////////////////////////////
+Instr -> if E then Instr Instr2
+Instr2 -> endif
+Instr2 -> else Instr endif
+///////////////////////////////////////////////////
+
+Instr -> while E do Instr
+Instr -> writeln pari E pard
+
+//////////////////////////////////////
+E -> Expr relop Expr
+E -> Expr
+/////////////////////////////////////
+E -> Expr E2
+E2 -> relop Expr
+E2 -> ε
+/////////////////////////////////////
+
+/////////////////////////////////////
+Expr -> Expr addop Term
+Expr -> Term
+/////////////////////////////////////
+Expr -> Term Expr2
+Expr2 -> addop Term Expr2
+Expr2 -> ε
+/////////////////////////////////////
+
+////////////////////////////////////
+Term -> Term mulop Factor
+Term -> Factor
+////////////////////////////////////
+Term -> Factor Term2
+Term2 -> mulop Factor Term2
+Term2 -> ε
+////////////////////////////////////
+Factor -> id
+Factor -> nentero
+Factor -> nreal
+Factor -> pari E pard

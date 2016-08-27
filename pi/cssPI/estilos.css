@@ -1,0 +1,120 @@
+/*
+StracomterIII
+Sergio Gallardo Sales
+mailto:sgs35@ arroba @alu.ua.es
+*/
+
+body {
+	background-image:url('sueloOficina.jpg');
+}
+
+a {
+	color: #0B0B61;
+}
+
+.ul1 li a {
+	background-color: lightgray;
+	color: black;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 12px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+}
+
+#enlacesversiones li, #enlacesintra li {
+	margin: 40px;
+}
+.ul1 li a:hover {
+	background-color: gray;
+}
+#titulo
+{
+	/*background-color: gray;*/
+	background-image:url('fondo.jpg');
+	border-radius: 10px;
+
+	color: #0B0B61;
+	text-align: center;
+}
+
+#titulo h1
+{
+	font-size: 58px;
+}
+
+/*ENLACES*/
+#enlaces {
+	position: absolute;
+	padding: 0em 1em 1em 1em;
+	top: 500px;
+	width: 250px;
+	float: left;
+	background-image:url('fondo.jpg');
+}
+
+#apartados, #resumen, #comentario{
+	
+	margin-left: 300px;
+	margin-right: 376px;
+	background-color: lightgray;
+	border: 1px solid blue;
+	margin-top: 10px;
+	padding: 1em;
+}
+
+#extraDiv1 {
+	
+	background-image:url('fondoMini.png');
+	background-repeat:no-repeat;
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	top: 200px;
+	left: 10px;
+	border-radius: 20px;
+}
+
+#extraDiv2 {
+	
+	background-image:url('foto1.png');
+	background-repeat:no-repeat;
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	top: 200px;
+	right: 50px;
+	border-radius: 20px;
+}
+
+#enlacesintra 
+{
+	position: absolute;
+	top: 450px;
+	right: 0px;
+	float: right;
+	width: 375px;
+	text-align: center;
+	padding-left: auto;
+	padding-right: auto;
+}
+
+#enlacesversiones
+{
+	position: absolute;
+	top: 750px;
+	right: 0px;
+	float: right;
+	width: 375px;
+
+
+	text-align: center;
+	padding-left: auto;
+	padding-right: auto;
+}
+
+#enlacesversiones li, #enlacesintra li {
+
+	list-style: none;
+}

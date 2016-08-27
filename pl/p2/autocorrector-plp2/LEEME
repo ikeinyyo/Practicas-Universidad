@@ -1,0 +1,19 @@
+
+Autocorrector para la práctica 2 de PL con ANTLR
+================================================
+
+Este autocorrector funciona como el de la práctica 1, e incluye el .jar
+necesario para usar el ANTLR (versión 3.4). 
+
+Para ejecutar el autocorrector solamente hay que poner en el directorio en
+el que está el fichero "autocorrector-plp2.sh" el fichero "plp2.g", el
+"plp2.java" (que tendrá el método "main"), y los demás ficheros .java
+auxiliares para la tabla de símbolos. 
+
+El autocorrector invocará primero al ANTLR para compilar el fichero "plp2.g"
+y generar los ficheros en java equivalentes, y luego compilará todos los
+ficheros *.java que encuentre. Si la compilación es correcta, se ejecutará
+el programa resultante ("plp2") con las pruebas del directorio "fuentes",
+que son las pruebas de la práctica 1 con las pruebas de errores léxicos 
+y sintácticos eliminadas.
+

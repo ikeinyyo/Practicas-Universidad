@@ -1,0 +1,213 @@
+/* 
+    Document   : estilo
+    Created on : 26-feb-2012, 18:36:02
+    Author     : Sergio Gallardo Sales
+    Description:
+        Hoja de estilo para Picture&Image
+*/
+
+#Title {
+    
+    /*Borde*/
+    border-bottom: solid 2px;
+    border-color: #81dd2e;
+    
+}
+
+body {
+    
+    /*Color de Fondo*/
+    background-color: #81dd2e;
+    /*Fuente*/
+    font-family: Geneva,Arial,Helvetica,sans-serif;
+}
+
+#pagina {
+    
+    /*Borde*/
+    border-radius: 10px;
+    
+    /*Color de Fondo*/
+    background-color: #ffffff;
+}
+
+#estilos {
+    color: #81dd2e;
+    font-size 10px;
+}
+
+.linkTitle:hover {
+    
+    /*Fuente*/
+    color: #66d256;
+    font-weight: bold;
+    font-family: Geneva,Arial,Helvetica,sans-serif;
+    
+    /*Decoración*/
+    text-decoration: none;
+}
+
+.linkTitle {
+    
+    /*Fuente*/
+    color: #81dd2e;
+    font-weight: bold;
+    font-family: Geneva,Arial,Helvetica,sans-serif;
+    
+    /*Decoración*/
+    text-decoration: none;
+}
+
+.image {
+    
+    /*Borde*/
+    border: solid 4px;
+    border-color: #ffffff;
+    border-radius: 4px;
+}
+
+.imageSeleccionada {
+    
+    /*Borde*/
+    border: solid 4px;
+    border-color: #ffffff;
+    border-radius: 4px;
+}
+
+#formBusqueda {
+    
+    /*Borde*/
+    border: solid 2px;
+    border-color: #81dd2e;
+    border-radius: 10px;
+    
+    /*Fuente*/
+    color: #81dd2e;
+    text-align: left;
+}
+
+#infoBusqueda {
+    
+}
+
+#formlogin {
+    
+    /*Fuente*/
+    color: #ffffff;
+    text-align: right;
+    font-size: 15px;
+}
+
+#cuerpo {
+    
+    /*Borde*/
+    border: solid 2px;
+    border-color: #81dd2e;
+    border-radius: 10px;
+    
+    /*Fuente*/
+    color: #81dd2e;
+    background-color: white;
+}
+
+#formRegistro {
+}
+
+#infoRegistro {
+    border-radius: 15px;
+}
+
+.marcoImagen {
+
+    border: solid 2px;
+    border-color: #81dd2e;
+    border-radius: 10px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #81dd2e;
+   
+    text-decoration: none;
+}
+
+.marcoImagen:hover {
+    background-color: #8fec5d;
+}
+
+.fixed {
+    
+    clear: both;
+}
+
+#Pie {
+    
+    
+}
+
+ul {
+    list-style: none;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+#ordenar {
+    
+    /*border-bottom: 2px solid #4f53fc;*/
+    border-top: 2px solid #81dd2e;
+}
+
+.fechasOrden {
+    width: 10px;
+    height: 10px;
+}
+
+#infoRegistrado {
+    border-left: 1px solid #81dd2e;
+}
+
+.boton_menu {
+
+    color: #FFF;
+    background-color: #81dd2e;
+    font-size: 20px;
+
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
+
+    text-decoration: none;
+}
+
+.boton_menu:hover {
+    color: #70ff2e;
+    background-color: #EEE;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
+
+
+}
+
+.salir {
+
+    color: #FFF;
+}
+
+.marcoImagenSeleccionada {
+
+    border: solid 2px;
+    border-color: #81dd2e;
+    border-radius: 10px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #81dd2e;
+   
+    text-decoration: none;
+}
+
+.marcoImagenSeleccionada:hover {
+    background-color: #8fec5d;
+}

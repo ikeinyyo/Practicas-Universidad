@@ -1,0 +1,71 @@
+[2013-02-14 17:42:54,346] ERROR(javavis.desktop.gui.Function.run(Function.java:164)) - javavis.base.JIPException: Function Blobs can only be applied to BIT images.
+[2013-02-14 17:43:04,583] ERROR(javavis.desktop.gui.Function.run(Function.java:164)) - javavis.base.JIPException: Function Blobs can only be applied to BIT images.
+[2013-02-14 17:43:12,305] ERROR(javavis.desktop.gui.Function.run(Function.java:164)) - javavis.base.JIPException: Function Blobs can only be applied to BIT images.
+[2013-02-14 17:43:33,368] ERROR(javavis.desktop.gui.Function.run(Function.java:164)) - javavis.base.JIPException: Function Binarize only defined for BYTE images.
+[2013-02-14 17:43:37,984] ERROR(javavis.desktop.gui.Function.run(Function.java:164)) - javavis.base.JIPException: Function Binarize only defined for BYTE images.
+[2013-02-14 17:43:41,248] ERROR(javavis.desktop.gui.Function.run(Function.java:164)) - javavis.base.JIPException: Function Binarize only defined for BYTE images.
+[2013-02-14 17:43:45,304] ERROR(javavis.desktop.gui.Function.run(Function.java:164)) - javavis.base.JIPException: Function Binarize only defined for BYTE images.
+[2013-02-14 17:44:53,728] ERROR(javavis.desktop.gui.Function.run(Function.java:164)) - javavis.base.JIPException: Function Blobs can only be applied to BIT images.
+[2013-02-14 17:53:14,648] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: La función AddColor solo funciona con imágenes tipo Byte
+[2013-02-14 17:59:15,374] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: La función AddColor solo funciona con imágenes tipo Byte
+[2013-02-14 18:16:31,314] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Function2D.getParamValue: parameter not found
+[2013-02-21 18:04:21,465] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-02-21 18:10:50,767] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-02-21 18:12:58,453] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Function Crop can not be applied to this image type.
+[2013-02-21 18:13:09,658] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Function Crop can not be applied to this image type.
+[2013-02-28 18:14:43,753] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Dimensions exceed image size.
+[2013-02-28 18:17:41,441] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Dimensions exceed image size.
+[2013-02-28 18:20:12,099] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Dimensions exceed image size.
+[2013-03-07 17:24:13,937] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-03-07 18:12:36,964] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-03-07 18:13:41,532] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-03-14 17:34:15,670] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Sequence.getFrame: index out of bounds
+[2013-03-14 18:13:30,137] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setAllPixels: dimensions of input data are not the same size of Bitmap
+[2013-03-21 17:02:22,517] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Sequence.getFrame: index out of bounds
+[2013-03-21 17:02:43,050] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Sequence.getFrame: index out of bounds
+[2013-03-21 17:11:10,975] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-03-21 17:15:16,720] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-03-21 17:18:09,950] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-03-21 18:01:52,940] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (-319, -36) out of the range (0..1280, 0..854).
+[2013-03-21 18:15:04,043] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (-302, -1) out of the range (0..1400, 0..934).
+[2013-04-09 12:01:11,473] ERROR(javavis.jip2d.gui.Gui2D$DoAction.nnew(Gui2D.java:1545)) - java.lang.NullPointerException
+[2013-04-09 12:02:13,918] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (302, 1) out of the range (0..200, 0..200).
+[2013-04-09 12:10:31,993] ERROR(javavis.jip2d.gui.Gui2D$DoAction.nnew(Gui2D.java:1545)) - java.lang.NullPointerException
+[2013-04-09 17:18:54,711] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-04-09 17:33:59,472] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-04-09 17:43:15,203] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (0, 427) out of the range (0..640, 0..427).
+[2013-04-09 17:44:17,241] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (0, 427) out of the range (0..640, 0..427).
+[2013-04-09 17:45:03,357] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (0, -1) out of the range (0..640, 0..427).
+[2013-04-09 17:46:03,833] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (0, 427) out of the range (0..640, 0..427).
+[2013-04-09 18:13:03,078] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (0, -35) out of the range (0..640, 0..427).
+[2013-04-10 18:34:59,568] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: JIPImage: dimensions can not be negative or zero
+[2013-04-10 18:40:17,758] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (364, 0) out of the range (0..364, 0..371).
+[2013-04-10 18:41:14,996] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (364, 0) out of the range (0..364, 0..371).
+[2013-04-10 18:47:31,734] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Sequence.getFrame: index out of bounds
+[2013-04-11 11:58:31,052] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (801, 0) out of the range (0..801, 0..889).
+[2013-04-11 12:00:15,568] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (338, 0) out of the range (0..338, 0..356).
+[2013-04-11 12:01:52,410] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (339, 0) out of the range (0..339, 0..357).
+[2013-04-11 12:02:56,390] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (388, 0) out of the range (0..388, 0..406).
+[2013-04-18 17:51:21,648] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-04-19 12:54:05,359] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-04-19 12:55:20,622] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-04-19 13:06:42,680] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Esta función sólo se puede aplicar a una secuencia.
+[2013-04-19 14:06:56,437] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (640, 0) out of the range (0..640, 0..427).
+[2013-04-19 14:12:27,703] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Function Nitzberg can not be applied to this image format.
+[2013-04-19 14:46:19,900] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (-302, 0) out of the range (0..700, 0..466).
+[2013-04-19 14:52:54,348] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (-302, 0) out of the range (0..700, 0..466).
+[2013-04-19 14:56:02,536] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (-302, 0) out of the range (0..700, 0..466).
+[2013-04-19 14:56:47,011] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (-302, 0) out of the range (0..700, 0..466).
+[2013-04-19 14:59:21,583] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (-315, 0) out of the range (0..640, 0..392).
+[2013-04-19 15:55:39,907] ERROR(javavis.jip2d.gui.Gui2D$DoAction.nnew(Gui2D.java:1545)) - java.lang.NullPointerException
+[2013-04-21 03:20:03,468] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (1184, 499) out of the range (0..1984, 0..499).
+[2013-04-21 03:22:45,869] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (721, 510) out of the range (0..1521, 0..510).
+[2013-04-21 03:24:45,366] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: setPixel: coordinates (761, 510) out of the range (0..1521, 0..510).
+[2013-04-21 03:28:55,817] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (1184, 499) out of the range (0..1984, 0..499).
+[2013-04-21 03:30:07,723] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (1184, 499) out of the range (0..1984, 0..499).
+[2013-04-21 03:33:59,802] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (1184, 499) out of the range (0..1984, 0..499).
+[2013-04-21 03:34:49,201] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (336, 525) out of the range (0..1136, 0..525).
+[2013-04-21 03:37:21,953] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: getPixel: coordinates (1641, 497) out of the range (0..2441, 0..497).
+[2013-04-22 11:39:35,787] ERROR(javavis.base.JIPToolkit.saveSeqIntoFileRaw(JIPToolkit.java:367)) - java.io.NotSerializableException: javavis.jip2d.base.geometrics.Segment
+[2013-04-23 19:18:51,488] ERROR(javavis.jip2d.gui.Gui2D$DoAction.run(Gui2D.java:1369)) - javavis.base.JIPException: Function2D.getParamValue: parameter not found
+[2013-04-23 20:23:46,316] ERROR(javavis.base.JIPToolkit.saveSeqIntoFileRaw(JIPToolkit.java:367)) - java.io.NotSerializableException: javavis.jip2d.base.geometrics.Segment

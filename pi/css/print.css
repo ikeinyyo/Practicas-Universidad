@@ -1,0 +1,208 @@
+/* 
+    Document   : estilo
+    Created on : 26-feb-2012, 18:36:02
+    Author     : Sergio Gallardo Sales
+    Description:
+        Hoja de estilo para Picture&Image
+*/
+
+#Title {
+    
+    /*Alineación del texto*/
+    text-align: center;
+    
+    /*Márgen*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+ 
+    
+    /*Tamaño*/
+    width: 1000px;
+    
+}
+
+body {
+    
+}
+
+#pagina {
+    
+    /*Márgen*/
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    
+    /*Tamaño*/
+    width: 1200px;
+    
+}
+
+.linkTitle:hover {
+    
+}
+
+.linkTitle {
+    
+}
+
+.image {
+    
+    width: 200px;
+    height: 150px;
+}
+
+.marcoImagen {
+
+    /*Márgenes*/
+    padding-bottom: 1em;
+    padding-top: 1em;
+    width: 250px;
+    
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    
+    float: left;
+}
+
+#formBusqueda {
+
+    /*Márgenes*/
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+    margin-right: auto;
+    margin-bottom: 1em;
+    
+    position: relative;
+    top: 10px;
+    width: 200px;
+    float: left;
+    
+    /*Tamaño*/
+    width: 250px;
+}
+
+#formlogin {
+  
+    /*Márgenes*/
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+    
+    /*Tamaño*/
+   width: 1200px;
+   
+   display: none;
+}
+
+#infoBusqueda {
+    /*Márgenes*/
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position: relative;
+    top: 10px;
+    width: 650px;
+    float: right;
+}
+
+#cuerpo {
+ 
+    /*Márgenes*/
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /*Tamaño*/
+    width: 1000px;
+}
+
+#formRegistro {
+    position: relative;
+    top: 10px;
+    width: 200px;
+    float: left;
+}
+
+#infoRegistro {
+    /*Márgenes*/
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position: relative;
+    top: 10px;
+    width: 750px;
+    float: right;
+}
+
+.fixed {
+    
+    clear: both;
+}
+
+#Pie {
+    
+    /*Alineación del texto*/
+    text-align: left;
+    /*Márgen*/
+    padding-right: auto;
+    padding-left: auto;
+    padding-bottom: 0.8em;
+    padding-top: 0.8em;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /*Tamaño*/
+    width: 1000px;
+    
+}
+
+ul {
+    
+    /*position: relative;*/
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    /*display: table-cell;*/
+}
+
+li {
+    /*display: inline;*/
+    /*margin-top: 1em;
+    margin-bottom: 1em;*/
+    /*margin-left: 1em;
+    margin-right: 1em;*/
+    /*display: inline;*/
+    list-style: none;
+    
+}
+
+#infoImage {
+    /*Márgenes*/
+    padding-bottom: 1em;
+    padding-top: 1em;
+    width: 700px;
+    
+    margin-top: 1em;
+    margin-bottom: 1em;
+    
+    float: right;
+}
